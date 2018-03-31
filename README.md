@@ -33,7 +33,7 @@ Success/Fail
 ```
 
 ## Question List
-Users who successfully login will be navigated to the main control view of his own account. There is supposed to be a ```Get Question List``` button. Once clicked, a get request will be sent to the server to ask for all the questions’ number and their titles. The server will send a response which contains a list of ```key/value``` pair in the content body to indicate all the question numbers and corresponding titles.
+Users who successfully login will be navigated to the main control view of their own account. There is supposed to be a ```Get Question List``` button. Once clicked, a get request will be sent to the server to ask for all the questions’ number and their titles. The server will send a response which contains a list of ```key/value``` pair in the content body to indicate all the question numbers and corresponding titles.
 ```
 Request(font-end  )
 Request Method: GET  
