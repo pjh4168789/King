@@ -13,7 +13,7 @@ Password: xxxxx
 Email: xxx@gmail.com  
 
 Response(back-end)
-Repose Body:
+Reponse Body:
 Success/Fail
 ```
 
@@ -28,7 +28,7 @@ Username: xxxxx
 Password: xxxxx  
 
 Response(back-end)  
-Repose Body:  
+Reponse Body:  
 Success/Fail  
 ```
 
@@ -41,7 +41,7 @@ URI: localhost:8080/questions
 Request Body:  
 
 Response(back-end)  
-Repose Body:  
+Reponse Body:  
 Question1: Two Sum  
 Question2: Reverse Linked List   
 …  
@@ -58,7 +58,7 @@ Username: xxx
 Question number: x  
 
 Response(back-end)  
-Repose Body:  
+Reponse Body:  
 Write an algorithm which computes the number of trailing zeros in n factorial.  
 Example:
 11! = 39916800, so the out should be 2.
@@ -80,7 +80,7 @@ Xxxx
 Xxxx  
 
 Response(back-end)  
-Repose Body:  
+Reponse Body:  
 Success/Fail  
 ```
 
@@ -95,7 +95,7 @@ Username: xxx
 Question number: x  
 
 Response(back-end)  
-Repose Body:  
+Reponse Body:  
 Import java.io  
 Xxxx  
 Xxxx  
