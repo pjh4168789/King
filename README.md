@@ -18,7 +18,7 @@ Success/Fail
 ```
 
 ## Login
-The user is supposed to input ```username``` and ```password``` to login. After the user clicks the ```Log In``` button, a post request will be sent to the server. Then the server will send a response to indicate if this login is successful or not in the content body. The GUI will be navigated to different web pages based on the response.
+The user is supposed to input ```username``` and ```password``` to login. After the user clicks the ```Log In``` button, a post request will be sent to the server. Then the server will send a response to indicate if this login is successful or not in the content body. The user will be navigated to different web pages based on the response.
 ```
 Request(font-end)  
 Request Method: POST  
