@@ -2,7 +2,7 @@
 Here are basic interfaces for front-end team and back-end team to follow:
 
 ## Register
-The user is required to input ```username```, ```password```, and ```email address``` on the GUI. Once the user clicks the ```Register``` button, a post request will be sent to the server. Then the server will send a response to indicate if this registration is successful or not in the content body. The GUI will be navigated to different web pages based on the response.
+The user is required to input ```username```, ```password```, and ```email address``` on the GUI. Once the user clicks the ```Register``` button, a post request will be sent to the server. Then the server will send a response to indicate if this registration is successful or not in the content body. The user will be navigated to different web pages based on the response.
 ```
 Request(font-end)  
 Request Method: POST  
