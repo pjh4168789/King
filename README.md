@@ -20,7 +20,7 @@ Once the user clicks the ```Register``` button from the index page, a get reques
 ```
 Request(font-end)  
 Request line: GET /getRegister HTTP/1.1 
-Context:/   
+Context:/getRegister   
 
 Response(back-end)
 Response Body:
@@ -34,7 +34,7 @@ Once the user clicks the ```Login``` button from the index page, a get request w
 ```
 Request(font-end)  
 Request line: GET /getLogin HTTP/1.1 
-Context:/   
+Context:/getLogin   
 
 Response(back-end)
 Response Body:
